@@ -1,0 +1,133 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0%;
+   
+}
+.container{
+    width: auto;
+    height: 100px;
+    background-color: rgb(69, 180, 152);
+    display: flex;
+}
+.first-tag{
+    font-size: 20px;
+    color: rgb(241, 220, 220);
+    padding-left: 60px;
+    padding-top: 30px;
+    margin-top: 0%;
+}
+
+.first-btn{
+    width: 100px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 60%;
+    font-size: 15px;
+
+}
+.first-btn:hover{
+   background-color: rgb(50, 116, 182);
+   color: white;
+}
+.link-add{
+    padding-left: 20px;
+    padding-top: 7px;
+    padding-right: 15px;
+    padding-bottom: 7px;
+    text-decoration: none;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right:0;
+    background-color: blue;
+    color: black;
+   
+}
+.link-add:hover{
+    background-color: rgb(30, 33, 39);
+    color: white;
+}
+#section1{
+    display: flex;
+}
+.some-write{
+    width: 50%;
+}
+.some-write2{
+    width: 50%;
+}
+.second-tag{
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 100px;
+}
+.span1{
+    color: rgb(255, 81, 0);
+}
+.third-tag{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.link-add2{
+    margin-left: 15%;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding:10px;
+    background-image: linear-gradient(rgb(230, 96, 96),rgb(231, 178, 78));
+}
+.link-add2:hover{
+    background-image: linear-gradient(rgb(53, 43, 43),rgb(155, 94, 94));
+    color: rgb(146, 224, 146);
+}
+.imges{
+    margin-top: 50px;
+    margin-left:60px;
+    width:70% ;
+
+}
+#section2{
+    display: flex;
+    width: auto;
+    height: 700px;
+    background-image: linear-gradient(rgb(185, 185, 118)rgb(144, 206, 144));
+}
+.some-write3{
+    width: 50%;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.some-write4{
+    width: 50%;
+    margin-top: 150px;
+}
+.imges2{
+    width: 90%;
+    padding-left: 100px;
+}.forth-tag{
+    font-size: 30px;
+}
+.span2{
+    color: rgb(219, 103, 57);
+}
+.fifth-tag{
+    font-size: 20px;
+    margin-right: 100px;
+}
+.link-add3{
+    border: 2px solid black;
+    padding: 15px;
+    text-decoration: none;
+    margin: 50px;
+    border-radius: 20px;
+    background-color: cyan;
+    color: black;
+}
+.link-add3:hover{
+    background-image: linear-gradient(rgb(230, 104, 104),rgb(243, 243, 104));
+    color: white;
+
+}
+
+
