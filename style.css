@@ -91,7 +91,8 @@ body{
     display: flex;
     width: auto;
     height: 700px;
-    background-image: linear-gradient(rgb(185, 185, 118)rgb(144, 206, 144));
+    background-image: linear-gradient(rgb(202, 145, 145),rgb(145, 145, 187));
+    margin-top: 50px;
 }
 .some-write3{
     width: 50%;
@@ -125,9 +126,120 @@ body{
     color: black;
 }
 .link-add3:hover{
-    background-image: linear-gradient(rgb(230, 104, 104),rgb(243, 243, 104));
+    background-image: linear-gradient(rgb(197, 118, 118),rgb(138, 173, 138));
     color: white;
 
 }
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+}
+h3{
+    font-size: 15px;
+    margin-left: 35%;
+}
+#section3{
+    display: flex;
 
+}
+.some-write5{
+    width: 30%;
+    border: 2px solid black;
+    margin-left: 150px;
+    padding-left: 65px;
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px black;
+   
+    
+}
+.some-write6{
+    width: 30%;
+    border: 2px solid black;
+    margin-left: 150px;
+    padding-left: 65px;
+    margin-right: 80px;
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px black;
 
+}
+.some-write7{
+    width: 30%;
+    border: 2px solid black;
+    margin-left: 80px;
+    margin-right: 100px;
+    padding-left: 65px;
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px black;
+}
+.image{
+    width: 75%;
+    border: 1px solid white;
+    border-radius: 10px;
+    
+
+}
+.leg{
+    margin-top: 100px;
+    margin-left: 3%;
+    margin-right:2%;
+}
+.hand{
+    margin-top: 100px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.eye{
+    margin-top: 100px;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+b{
+    margin-left: 15%;
+}
+.justify{
+    margin-left: 15%;
+
+}
+#id-div{
+    width: auto;
+    height: 150px;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    border: 5px solid black;
+    border-radius: ;
+}
+.mon{
+  padding-left: 50px ;
+  padding-top: 10px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.dib{
+  padding-left: 450px;
+  padding-top: 10px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.kobe{
+    padding-left: 450px;
+    padding-top: 10px;
+    font-size: 20px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+}
+.hobena{
+    padding-left: 70px;
+}
+.holo{
+    padding-left: 70px;
+}
+.hobe{
+    padding-left: 70px;
+}
